@@ -1,9 +1,6 @@
 # create vue or react
 
-<p align="center">
-  <img src="https://github.com/Shiwei-Zhang/swz-cli/blob/main/media/screenshot-cli.png?raw=true" width="800">
-</p>
-
+The recommended way to start a Vue or React project
 
 ## Usage
 
